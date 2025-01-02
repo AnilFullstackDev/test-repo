@@ -8,6 +8,4 @@
 
 #
 
-# It should be ignored by the `README` filter.
-
 #
